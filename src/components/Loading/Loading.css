@@ -1,0 +1,25 @@
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-image {
+  height: 40vh;
+  width: 45vw;
+  animation: loading 3s ease-in 0s infinite forwards;
+}
+
+@keyframes loading {
+  0% {
+    opacity: 0.1;
+  }
+
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.1;
+  }
+}

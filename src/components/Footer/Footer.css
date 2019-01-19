@@ -1,0 +1,20 @@
+.footer-container {
+  margin-top: 100px !important;
+}
+
+.footer-jumbotron {
+  margin-bottom: 0px !important;
+  padding-bottom: 15px !important;
+}
+
+.footer-links__quick {
+  list-style: none;
+}
+
+.footer-bottom {
+  text-align: center;
+}
+
+.footer-links__popular {
+  list-style-type: none;
+}
