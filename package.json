@@ -30,7 +30,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://ecehub.github.io",
+  "homepage": "https://ecehubin.github.io",
   "main": "index.js",
   "repository": "https://github.com/ecehub/ecehub.github.io.git",
   "author": "Avnish <Avnishway@gmail.com>",
